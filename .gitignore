@@ -1,0 +1,6 @@
+﻿**/.ipynb_checkpoints/
+**/mlruns/
+**/.jupyter_runtime/
+**/__pycache__/
+*.pyc
+P06-mlflow/work/mlflow.db
